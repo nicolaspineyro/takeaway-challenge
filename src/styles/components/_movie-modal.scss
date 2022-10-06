@@ -1,0 +1,34 @@
+.modal-container {
+  background-color: #fff;
+  width: 40%;
+  position: absolute;
+  color: #000;
+  top: 60%;
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.close-button {
+  margin: 1vh;
+}
+
+.modal-open {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.movie-info {
+  display: flex;
+}
+
+.movie-data {
+  margin: 2.5%;
+}
+
+.movie-text {
+  margin-left: 20px;
+}
+
+.movie-title {
+  text-align: center;
+}
