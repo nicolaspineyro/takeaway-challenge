@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Takeaway Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please insert the Movie DB Key inside a .env file with the name **REACT_APP_KEY**
+
+This is gonna be used inside **src/pages/home/helper.tsx**
 
 ## Available Scripts
 
